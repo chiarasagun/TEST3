@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# test3
+#
+
+projectname: test3
+vendorid: com.test3
+mainmodule: com.test3.test3
